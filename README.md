@@ -1,2 +1,2 @@
-An app to give a certain amount of tip.
+An app to input an amount of tip.
 
